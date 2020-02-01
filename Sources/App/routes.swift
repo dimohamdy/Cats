@@ -1,7 +1,7 @@
 import Vapor
 
 enum EnhanceLevel: Int {
-    case level1
+    case level1 = 1
     case level2
     case level3
     case level4
